@@ -1,1 +1,158 @@
-
+{
+  "chartDate": "2026-09-14",
+  "totalSongs": 30,
+  "totalStreams": 4643282184,
+  "totalGain": 0,
+  "songs": [
+    {
+      "title": "Who",
+      "streams": 2522450190,
+      "gain": 0
+    },
+    {
+      "title": "Like Crazy",
+      "streams": 1000016235,
+      "gain": 0
+    },
+    {
+      "title": "Be Mine",
+      "streams": 194384978,
+      "gain": 0
+    },
+    {
+      "title": "Set Me Free Pt.2",
+      "streams": 147114748,
+      "gain": 0
+    },
+    {
+      "title": "Like Crazy (English Version)",
+      "streams": 126018061,
+      "gain": 0
+    },
+    {
+      "title": "Smeraldo Garden Marching Band",
+      "streams": 115854499,
+      "gain": 0
+    },
+    {
+      "title": "* Angel Pt. 1",
+      "streams": 113397420,
+      "gain": 0
+    },
+    {
+      "title": "Closer Than This",
+      "streams": 90711335,
+      "gain": 0
+    },
+    {
+      "title": "* VIBE",
+      "streams": 66748010,
+      "gain": 0
+    },
+    {
+      "title": "With you",
+      "streams": 58210835,
+      "gain": 0
+    },
+    {
+      "title": "Rebirth (Intro)",
+      "streams": 32411558,
+      "gain": 0
+    },
+    {
+      "title": "Slow Dance",
+      "streams": 29378145,
+      "gain": 0
+    },
+    {
+      "title": "Face-off",
+      "streams": 19158302,
+      "gain": 0
+    },
+    {
+      "title": "Alone",
+      "streams": 18052837,
+      "gain": 0
+    },
+    {
+      "title": "* Angel Pt. 2",
+      "streams": 17741328,
+      "gain": 0
+    },
+    {
+      "title": "Interlude : Showtime",
+      "streams": 17360428,
+      "gain": 0
+    },
+    {
+      "title": "Interlude : Dive",
+      "streams": 13265817,
+      "gain": 0
+    },
+    {
+      "title": "Promise",
+      "streams": 9775053,
+      "gain": 0
+    },
+    {
+      "title": "Who (Rock Remix)",
+      "streams": 8497835,
+      "gain": 0
+    },
+    {
+      "title": "Who (Shibuyakei Remix)",
+      "streams": 7380775,
+      "gain": 0
+    },
+    {
+      "title": "Who (Acoustic Remix)",
+      "streams": 7133161,
+      "gain": 0
+    },
+    {
+      "title": "Who (Instrumental)",
+      "streams": 5374166,
+      "gain": 0
+    },
+    {
+      "title": "Who (Funky Remix)",
+      "streams": 5249554,
+      "gain": 0
+    },
+    {
+      "title": "Who (Beautiful Mind Remix)",
+      "streams": 5213050,
+      "gain": 0
+    },
+    {
+      "title": "Christmas Love",
+      "streams": 4610783,
+      "gain": 0
+    },
+    {
+      "title": "Like Crazy (Deep House Remix)",
+      "streams": 2525238,
+      "gain": 0
+    },
+    {
+      "title": "Like Crazy (UK Garage Remix)",
+      "streams": 2403426,
+      "gain": 0
+    },
+    {
+      "title": "Like Crazy (Instrumental)",
+      "streams": 1626169,
+      "gain": 0
+    },
+    {
+      "title": "With You - Instrumental",
+      "streams": 1183619,
+      "gain": 0
+    },
+    {
+      "title": "Angel",
+      "streams": 34629,
+      "gain": 0
+    }
+  ]
+}
