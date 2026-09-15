@@ -1,0 +1,64 @@
+name: Scrape Jimin Spotify
+
+# Dipicu dari cron-job.org lewat GitHub API (workflow_dispatch).
+# Bisa juga dijalankan manual dari tab Actions.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Jangan biarkan dua run jalan bersamaan (hindari bentrok saat push)
+concurrency:
+  group: scrape-jimin-spotify
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repo publik (data)
+        uses: actions/checkout@v5
+        with:
+          path: public
+
+      - name: Checkout repo private (scraper)
+        uses: actions/checkout@v5
+        with:
+          repository: ${{ secrets.PRIVATE_REPO }}
+          token: ${{ secrets.PRIVATE_REPO_TOKEN }}
+          path: scraper
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v5
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        working-directory: scraper
+        run: |
+          npm install --no-audit --no-fund
+          npx playwright install --with-deps chromium
+
+      - name: Jalankan scraper
+        working-directory: scraper
+        env:
+          OUTPUT_FILE: ${{ github.workspace }}/public/data/jimin-spotify-peaks.json
+        run: node scrape-jimin-spotify.js
+
+      - name: Commit kalau chart berubah
+        working-directory: public
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "Tidak ada perubahan chart, tidak ada commit."
+            exit 0
+          fi
+          CHART_DATE=$(node -p "require('./data/jimin-spotify-peaks.json').chartDate")
+          git commit -m "Update chart Spotify Jimin ${CHART_DATE}"
+          git pull --rebase
+          git push
