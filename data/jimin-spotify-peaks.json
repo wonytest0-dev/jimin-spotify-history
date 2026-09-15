@@ -1,0 +1,4160 @@
+{
+  "chartDate": "2026-09-14",
+  "updatedAt": "16/09/2026, 03:05:46 KST",
+  "source": "https://kworb.net/spotify/artist/1oSPZhvZMIrWW5I41kPkkY.html",
+  "totalSongs": 30,
+  "totalStreams": 4643282184,
+  "markets": [
+    "Global",
+    "US",
+    "KR",
+    "TH",
+    "JP",
+    "VN",
+    "CL",
+    "BR",
+    "PH",
+    "PE",
+    "MX",
+    "SG",
+    "TW",
+    "VE",
+    "BY",
+    "MY",
+    "ID",
+    "AR",
+    "PY",
+    "IN",
+    "BG",
+    "RO",
+    "CO",
+    "CA",
+    "KZ",
+    "CR",
+    "PL",
+    "BO",
+    "GT",
+    "SV",
+    "SA",
+    "HN",
+    "GB",
+    "ES",
+    "HK",
+    "IT",
+    "EC",
+    "LV",
+    "NI",
+    "MA",
+    "CZ",
+    "PK",
+    "UY",
+    "AE",
+    "DO",
+    "UA",
+    "DE",
+    "PA",
+    "HU",
+    "TR",
+    "IE",
+    "EG",
+    "ZA",
+    "CH",
+    "PT",
+    "NL",
+    "AT",
+    "LT",
+    "NG",
+    "FR",
+    "EE",
+    "FI",
+    "GR",
+    "AU",
+    "NO",
+    "LU",
+    "BE",
+    "IS",
+    "SK",
+    "DK",
+    "SE",
+    "NZ",
+    "IL",
+    "CY"
+  ],
+  "summary": {
+    "songsWithTop1": 6,
+    "totalTop1Entries": 24,
+    "globalTop1": [],
+    "top1ByMarket": {
+      "US": [
+        "Who"
+      ],
+      "KR": [
+        "Who",
+        "Like Crazy",
+        "* Angel Pt. 1"
+      ],
+      "CL": [
+        "Who"
+      ],
+      "VE": [
+        "Who"
+      ],
+      "BY": [
+        "Who"
+      ],
+      "RO": [
+        "Who"
+      ],
+      "AT": [
+        "Who"
+      ],
+      "TH": [
+        "Like Crazy",
+        "* Angel Pt. 1",
+        "* VIBE",
+        "With you"
+      ],
+      "VN": [
+        "Like Crazy",
+        "Smeraldo Garden Marching Band",
+        "* Angel Pt. 1",
+        "With you"
+      ],
+      "SA": [
+        "Like Crazy"
+      ],
+      "HN": [
+        "Like Crazy",
+        "Smeraldo Garden Marching Band"
+      ],
+      "PK": [
+        "Like Crazy",
+        "* Angel Pt. 1"
+      ],
+      "KZ": [
+        "Smeraldo Garden Marching Band"
+      ],
+      "MA": [
+        "With you"
+      ]
+    }
+  },
+  "songs": [
+    {
+      "title": "Who",
+      "peakDate": "2024/07/25",
+      "streams": 2522450190,
+      "globalPeak": 4,
+      "bestPeak": 1,
+      "chartedMarkets": 64,
+      "isTop1": true,
+      "top1Count": 7,
+      "top1Markets": [
+        "US",
+        "KR",
+        "CL",
+        "VE",
+        "BY",
+        "RO",
+        "AT"
+      ],
+      "peaks": {
+        "Global": {
+          "rank": 4,
+          "daysAtPeak": null
+        },
+        "US": {
+          "rank": 1,
+          "daysAtPeak": null
+        },
+        "KR": {
+          "rank": 1,
+          "daysAtPeak": null
+        },
+        "TH": {
+          "rank": 3,
+          "daysAtPeak": null
+        },
+        "JP": {
+          "rank": 21,
+          "daysAtPeak": null
+        },
+        "VN": {
+          "rank": 24,
+          "daysAtPeak": null
+        },
+        "CL": {
+          "rank": 1,
+          "daysAtPeak": null
+        },
+        "BR": {
+          "rank": 5,
+          "daysAtPeak": null
+        },
+        "PH": {
+          "rank": 113,
+          "daysAtPeak": null
+        },
+        "PE": {
+          "rank": 3,
+          "daysAtPeak": null
+        },
+        "MX": {
+          "rank": 19,
+          "daysAtPeak": null
+        },
+        "SG": {
+          "rank": 2,
+          "daysAtPeak": null
+        },
+        "TW": {
+          "rank": 2,
+          "daysAtPeak": null
+        },
+        "VE": {
+          "rank": 1,
+          "daysAtPeak": null
+        },
+        "BY": {
+          "rank": 1,
+          "daysAtPeak": null
+        },
+        "MY": {
+          "rank": 9,
+          "daysAtPeak": null
+        },
+        "ID": {
+          "rank": 105,
+          "daysAtPeak": null
+        },
+        "AR": {
+          "rank": 68,
+          "daysAtPeak": null
+        },
+        "PY": {
+          "rank": 3,
+          "daysAtPeak": null
+        },
+        "IN": {
+          "rank": 41,
+          "daysAtPeak": null
+        },
+        "BG": {
+          "rank": 3,
+          "daysAtPeak": null
+        },
+        "RO": {
+          "rank": 1,
+          "daysAtPeak": null
+        },
+        "CO": {
+          "rank": 14,
+          "daysAtPeak": null
+        },
+        "CA": {
+          "rank": 37,
+          "daysAtPeak": null
+        },
+        "KZ": {
+          "rank": 25,
+          "daysAtPeak": null
+        },
+        "CR": {
+          "rank": 6,
+          "daysAtPeak": null
+        },
+        "PL": {
+          "rank": 14,
+          "daysAtPeak": null
+        },
+        "BO": {
+          "rank": 22,
+          "daysAtPeak": null
+        },
+        "GT": {
+          "rank": 30,
+          "daysAtPeak": null
+        },
+        "SV": {
+          "rank": 22,
+          "daysAtPeak": null
+        },
+        "SA": {
+          "rank": 70,
+          "daysAtPeak": null
+        },
+        "HN": {
+          "rank": 2,
+          "daysAtPeak": null
+        },
+        "GB": {
+          "rank": 138,
+          "daysAtPeak": null
+        },
+        "ES": {
+          "rank": 89,
+          "daysAtPeak": null
+        },
+        "HK": {
+          "rank": 15,
+          "daysAtPeak": null
+        },
+        "IT": {
+          "rank": 43,
+          "daysAtPeak": null
+        },
+        "EC": {
+          "rank": 8,
+          "daysAtPeak": null
+        },
+        "LV": {
+          "rank": 2,
+          "daysAtPeak": null
+        },
+        "NI": {
+          "rank": 133,
+          "daysAtPeak": null
+        },
+        "MA": {
+          "rank": 118,
+          "daysAtPeak": null
+        },
+        "CZ": {
+          "rank": 12,
+          "daysAtPeak": null
+        },
+        "PK": {
+          "rank": 5,
+          "daysAtPeak": null
+        },
+        "UY": {
+          "rank": 21,
+          "daysAtPeak": null
+        },
+        "AE": {
+          "rank": 26,
+          "daysAtPeak": null
+        },
+        "DO": {
+          "rank": 166,
+          "daysAtPeak": null
+        },
+        "UA": {
+          "rank": 42,
+          "daysAtPeak": null
+        },
+        "DE": {
+          "rank": 61,
+          "daysAtPeak": null
+        },
+        "PA": {
+          "rank": 49,
+          "daysAtPeak": null
+        },
+        "HU": {
+          "rank": 48,
+          "daysAtPeak": null
+        },
+        "TR": {
+          "rank": 60,
+          "daysAtPeak": null
+        },
+        "IE": {
+          "rank": 97,
+          "daysAtPeak": null
+        },
+        "EG": {
+          "rank": 32,
+          "daysAtPeak": null
+        },
+        "ZA": {
+          "rank": 49,
+          "daysAtPeak": null
+        },
+        "CH": {
+          "rank": 82,
+          "daysAtPeak": null
+        },
+        "PT": {
+          "rank": 96,
+          "daysAtPeak": null
+        },
+        "NL": {
+          "rank": 107,
+          "daysAtPeak": null
+        },
+        "AT": {
+          "rank": 1,
+          "daysAtPeak": null
+        },
+        "LT": {
+          "rank": 50,
+          "daysAtPeak": null
+        },
+        "EE": {
+          "rank": 30,
+          "daysAtPeak": null
+        },
+        "FI": {
+          "rank": 106,
+          "daysAtPeak": null
+        },
+        "GR": {
+          "rank": 144,
+          "daysAtPeak": null
+        },
+        "AU": {
+          "rank": 190,
+          "daysAtPeak": null
+        },
+        "NO": {
+          "rank": 163,
+          "daysAtPeak": null
+        },
+        "LU": {
+          "rank": 3,
+          "daysAtPeak": null
+        }
+      }
+    },
+    {
+      "title": "Like Crazy",
+      "peakDate": "2023/03/26",
+      "streams": 1000016235,
+      "globalPeak": 15,
+      "bestPeak": 1,
+      "chartedMarkets": 71,
+      "isTop1": true,
+      "top1Count": 6,
+      "top1Markets": [
+        "KR",
+        "TH",
+        "VN",
+        "SA",
+        "HN",
+        "PK"
+      ],
+      "peaks": {
+        "Global": {
+          "rank": 15,
+          "daysAtPeak": null
+        },
+        "US": {
+          "rank": 87,
+          "daysAtPeak": null
+        },
+        "KR": {
+          "rank": 1,
+          "daysAtPeak": null
+        },
+        "TH": {
+          "rank": 1,
+          "daysAtPeak": null
+        },
+        "JP": {
+          "rank": 55,
+          "daysAtPeak": null
+        },
+        "VN": {
+          "rank": 1,
+          "daysAtPeak": null
+        },
+        "CL": {
+          "rank": 31,
+          "daysAtPeak": null
+        },
+        "BR": {
+          "rank": 88,
+          "daysAtPeak": null
+        },
+        "PH": {
+          "rank": 76,
+          "daysAtPeak": null
+        },
+        "PE": {
+          "rank": 8,
+          "daysAtPeak": null
+        },
+        "MX": {
+          "rank": 97,
+          "daysAtPeak": null
+        },
+        "SG": {
+          "rank": 6,
+          "daysAtPeak": null
+        },
+        "TW": {
+          "rank": 52,
+          "daysAtPeak": null
+        },
+        "VE": {
+          "rank": 9,
+          "daysAtPeak": null
+        },
+        "BY": {
+          "rank": 4,
+          "daysAtPeak": null
+        },
+        "MY": {
+          "rank": 28,
+          "daysAtPeak": null
+        },
+        "ID": {
+          "rank": 130,
+          "daysAtPeak": null
+        },
+        "AR": {
+          "rank": 95,
+          "daysAtPeak": null
+        },
+        "PY": {
+          "rank": 17,
+          "daysAtPeak": null
+        },
+        "IN": {
+          "rank": 135,
+          "daysAtPeak": null
+        },
+        "BG": {
+          "rank": 32,
+          "daysAtPeak": null
+        },
+        "RO": {
+          "rank": 21,
+          "daysAtPeak": null
+        },
+        "CO": {
+          "rank": 39,
+          "daysAtPeak": null
+        },
+        "CA": {
+          "rank": 141,
+          "daysAtPeak": null
+        },
+        "KZ": {
+          "rank": 26,
+          "daysAtPeak": null
+        },
+        "CR": {
+          "rank": 14,
+          "daysAtPeak": null
+        },
+        "PL": {
+          "rank": 55,
+          "daysAtPeak": null
+        },
+        "BO": {
+          "rank": 11,
+          "daysAtPeak": null
+        },
+        "GT": {
+          "rank": 32,
+          "daysAtPeak": null
+        },
+        "SV": {
+          "rank": 11,
+          "daysAtPeak": null
+        },
+        "SA": {
+          "rank": 1,
+          "daysAtPeak": null
+        },
+        "HN": {
+          "rank": 1,
+          "daysAtPeak": null
+        },
+        "GB": {
+          "rank": 87,
+          "daysAtPeak": null
+        },
+        "ES": {
+          "rank": 149,
+          "daysAtPeak": null
+        },
+        "HK": {
+          "rank": 32,
+          "daysAtPeak": null
+        },
+        "IT": {
+          "rank": 198,
+          "daysAtPeak": null
+        },
+        "EC": {
+          "rank": 24,
+          "daysAtPeak": null
+        },
+        "LV": {
+          "rank": 122,
+          "daysAtPeak": null
+        },
+        "NI": {
+          "rank": 7,
+          "daysAtPeak": null
+        },
+        "MA": {
+          "rank": 20,
+          "daysAtPeak": null
+        },
+        "CZ": {
+          "rank": 21,
+          "daysAtPeak": null
+        },
+        "PK": {
+          "rank": 1,
+          "daysAtPeak": null
+        },
+        "UY": {
+          "rank": 75,
+          "daysAtPeak": null
+        },
+        "AE": {
+          "rank": 18,
+          "daysAtPeak": null
+        },
+        "DO": {
+          "rank": 91,
+          "daysAtPeak": null
+        },
+        "UA": {
+          "rank": 128,
+          "daysAtPeak": null
+        },
+        "DE": {
+          "rank": 68,
+          "daysAtPeak": null
+        },
+        "PA": {
+          "rank": 38,
+          "daysAtPeak": null
+        },
+        "HU": {
+          "rank": 102,
+          "daysAtPeak": null
+        },
+        "TR": {
+          "rank": 81,
+          "daysAtPeak": null
+        },
+        "EG": {
+          "rank": 53,
+          "daysAtPeak": null
+        },
+        "ZA": {
+          "rank": 166,
+          "daysAtPeak": null
+        },
+        "CH": {
+          "rank": 60,
+          "daysAtPeak": null
+        },
+        "PT": {
+          "rank": 142,
+          "daysAtPeak": null
+        },
+        "NL": {
+          "rank": 161,
+          "daysAtPeak": null
+        },
+        "AT": {
+          "rank": 62,
+          "daysAtPeak": null
+        },
+        "LT": {
+          "rank": 59,
+          "daysAtPeak": null
+        },
+        "NG": {
+          "rank": 66,
+          "daysAtPeak": null
+        },
+        "FR": {
+          "rank": 111,
+          "daysAtPeak": null
+        },
+        "EE": {
+          "rank": 120,
+          "daysAtPeak": null
+        },
+        "FI": {
+          "rank": 65,
+          "daysAtPeak": null
+        },
+        "GR": {
+          "rank": 135,
+          "daysAtPeak": null
+        },
+        "AU": {
+          "rank": 97,
+          "daysAtPeak": null
+        },
+        "NO": {
+          "rank": 194,
+          "daysAtPeak": null
+        },
+        "LU": {
+          "rank": 17,
+          "daysAtPeak": null
+        },
+        "BE": {
+          "rank": 149,
+          "daysAtPeak": null
+        },
+        "IS": {
+          "rank": 64,
+          "daysAtPeak": null
+        },
+        "SK": {
+          "rank": 51,
+          "daysAtPeak": null
+        },
+        "DK": {
+          "rank": 148,
+          "daysAtPeak": null
+        },
+        "NZ": {
+          "rank": 93,
+          "daysAtPeak": null
+        },
+        "IL": {
+          "rank": 188,
+          "daysAtPeak": null
+        }
+      }
+    },
+    {
+      "title": "Be Mine",
+      "peakDate": "2024/08/02",
+      "streams": 194384978,
+      "globalPeak": 67,
+      "bestPeak": 2,
+      "chartedMarkets": 44,
+      "isTop1": false,
+      "top1Count": 0,
+      "top1Markets": [],
+      "peaks": {
+        "Global": {
+          "rank": 67,
+          "daysAtPeak": null
+        },
+        "US": {
+          "rank": 115,
+          "daysAtPeak": null
+        },
+        "KR": {
+          "rank": 2,
+          "daysAtPeak": null
+        },
+        "TH": {
+          "rank": 20,
+          "daysAtPeak": null
+        },
+        "JP": {
+          "rank": 53,
+          "daysAtPeak": null
+        },
+        "VN": {
+          "rank": 7,
+          "daysAtPeak": null
+        },
+        "CL": {
+          "rank": 10,
+          "daysAtPeak": null
+        },
+        "BR": {
+          "rank": 144,
+          "daysAtPeak": null
+        },
+        "PH": {
+          "rank": 137,
+          "daysAtPeak": null
+        },
+        "PE": {
+          "rank": 68,
+          "daysAtPeak": null
+        },
+        "SG": {
+          "rank": 25,
+          "daysAtPeak": null
+        },
+        "TW": {
+          "rank": 51,
+          "daysAtPeak": null
+        },
+        "VE": {
+          "rank": 5,
+          "daysAtPeak": null
+        },
+        "BY": {
+          "rank": 2,
+          "daysAtPeak": null
+        },
+        "MY": {
+          "rank": 52,
+          "daysAtPeak": null
+        },
+        "PY": {
+          "rank": 46,
+          "daysAtPeak": null
+        },
+        "BG": {
+          "rank": 2,
+          "daysAtPeak": null
+        },
+        "RO": {
+          "rank": 9,
+          "daysAtPeak": null
+        },
+        "CO": {
+          "rank": 183,
+          "daysAtPeak": null
+        },
+        "CA": {
+          "rank": 140,
+          "daysAtPeak": null
+        },
+        "KZ": {
+          "rank": 2,
+          "daysAtPeak": null
+        },
+        "CR": {
+          "rank": 150,
+          "daysAtPeak": null
+        },
+        "PL": {
+          "rank": 72,
+          "daysAtPeak": null
+        },
+        "BO": {
+          "rank": 51,
+          "daysAtPeak": null
+        },
+        "GT": {
+          "rank": 144,
+          "daysAtPeak": null
+        },
+        "SV": {
+          "rank": 154,
+          "daysAtPeak": null
+        },
+        "SA": {
+          "rank": 15,
+          "daysAtPeak": null
+        },
+        "HN": {
+          "rank": 119,
+          "daysAtPeak": null
+        },
+        "HK": {
+          "rank": 37,
+          "daysAtPeak": null
+        },
+        "IT": {
+          "rank": 69,
+          "daysAtPeak": null
+        },
+        "EC": {
+          "rank": 133,
+          "daysAtPeak": null
+        },
+        "LV": {
+          "rank": 2,
+          "daysAtPeak": null
+        },
+        "NI": {
+          "rank": 47,
+          "daysAtPeak": null
+        },
+        "MA": {
+          "rank": 51,
+          "daysAtPeak": null
+        },
+        "CZ": {
+          "rank": 95,
+          "daysAtPeak": null
+        },
+        "PK": {
+          "rank": 153,
+          "daysAtPeak": null
+        },
+        "AE": {
+          "rank": 40,
+          "daysAtPeak": null
+        },
+        "DO": {
+          "rank": 118,
+          "daysAtPeak": null
+        },
+        "UA": {
+          "rank": 128,
+          "daysAtPeak": null
+        },
+        "PA": {
+          "rank": 147,
+          "daysAtPeak": null
+        },
+        "HU": {
+          "rank": 153,
+          "daysAtPeak": null
+        },
+        "TR": {
+          "rank": 126,
+          "daysAtPeak": null
+        },
+        "EG": {
+          "rank": 124,
+          "daysAtPeak": null
+        },
+        "EE": {
+          "rank": 158,
+          "daysAtPeak": null
+        }
+      }
+    },
+    {
+      "title": "Set Me Free Pt.2",
+      "peakDate": "2023/03/17",
+      "streams": 147114748,
+      "globalPeak": 19,
+      "bestPeak": 2,
+      "chartedMarkets": 63,
+      "isTop1": false,
+      "top1Count": 0,
+      "top1Markets": [],
+      "peaks": {
+        "Global": {
+          "rank": 19,
+          "daysAtPeak": null
+        },
+        "US": {
+          "rank": 39,
+          "daysAtPeak": null
+        },
+        "KR": {
+          "rank": 2,
+          "daysAtPeak": null
+        },
+        "TH": {
+          "rank": 2,
+          "daysAtPeak": null
+        },
+        "JP": {
+          "rank": 57,
+          "daysAtPeak": null
+        },
+        "VN": {
+          "rank": 6,
+          "daysAtPeak": null
+        },
+        "CL": {
+          "rank": 61,
+          "daysAtPeak": null
+        },
+        "BR": {
+          "rank": 123,
+          "daysAtPeak": null
+        },
+        "PH": {
+          "rank": 154,
+          "daysAtPeak": null
+        },
+        "PE": {
+          "rank": 24,
+          "daysAtPeak": null
+        },
+        "MX": {
+          "rank": 192,
+          "daysAtPeak": null
+        },
+        "SG": {
+          "rank": 19,
+          "daysAtPeak": null
+        },
+        "TW": {
+          "rank": 52,
+          "daysAtPeak": null
+        },
+        "VE": {
+          "rank": 27,
+          "daysAtPeak": null
+        },
+        "BY": {
+          "rank": 48,
+          "daysAtPeak": null
+        },
+        "MY": {
+          "rank": 16,
+          "daysAtPeak": null
+        },
+        "ID": {
+          "rank": 142,
+          "daysAtPeak": null
+        },
+        "AR": {
+          "rank": 135,
+          "daysAtPeak": null
+        },
+        "PY": {
+          "rank": 47,
+          "daysAtPeak": null
+        },
+        "IN": {
+          "rank": 110,
+          "daysAtPeak": null
+        },
+        "BG": {
+          "rank": 34,
+          "daysAtPeak": null
+        },
+        "RO": {
+          "rank": 89,
+          "daysAtPeak": null
+        },
+        "CO": {
+          "rank": 108,
+          "daysAtPeak": null
+        },
+        "CA": {
+          "rank": 97,
+          "daysAtPeak": null
+        },
+        "KZ": {
+          "rank": 9,
+          "daysAtPeak": null
+        },
+        "CR": {
+          "rank": 98,
+          "daysAtPeak": null
+        },
+        "PL": {
+          "rank": 46,
+          "daysAtPeak": null
+        },
+        "BO": {
+          "rank": 37,
+          "daysAtPeak": null
+        },
+        "GT": {
+          "rank": 68,
+          "daysAtPeak": null
+        },
+        "SV": {
+          "rank": 70,
+          "daysAtPeak": null
+        },
+        "SA": {
+          "rank": 11,
+          "daysAtPeak": null
+        },
+        "HN": {
+          "rank": 37,
+          "daysAtPeak": null
+        },
+        "GB": {
+          "rank": 103,
+          "daysAtPeak": null
+        },
+        "HK": {
+          "rank": 32,
+          "daysAtPeak": null
+        },
+        "EC": {
+          "rank": 61,
+          "daysAtPeak": null
+        },
+        "LV": {
+          "rank": 14,
+          "daysAtPeak": null
+        },
+        "NI": {
+          "rank": 40,
+          "daysAtPeak": null
+        },
+        "MA": {
+          "rank": 31,
+          "daysAtPeak": null
+        },
+        "CZ": {
+          "rank": 55,
+          "daysAtPeak": null
+        },
+        "PK": {
+          "rank": 14,
+          "daysAtPeak": null
+        },
+        "UY": {
+          "rank": 117,
+          "daysAtPeak": null
+        },
+        "AE": {
+          "rank": 19,
+          "daysAtPeak": null
+        },
+        "DO": {
+          "rank": 192,
+          "daysAtPeak": null
+        },
+        "UA": {
+          "rank": 32,
+          "daysAtPeak": null
+        },
+        "DE": {
+          "rank": 90,
+          "daysAtPeak": null
+        },
+        "PA": {
+          "rank": 52,
+          "daysAtPeak": null
+        },
+        "HU": {
+          "rank": 77,
+          "daysAtPeak": null
+        },
+        "TR": {
+          "rank": 59,
+          "daysAtPeak": null
+        },
+        "EG": {
+          "rank": 97,
+          "daysAtPeak": null
+        },
+        "ZA": {
+          "rank": 49,
+          "daysAtPeak": null
+        },
+        "CH": {
+          "rank": 113,
+          "daysAtPeak": null
+        },
+        "PT": {
+          "rank": 122,
+          "daysAtPeak": null
+        },
+        "AT": {
+          "rank": 62,
+          "daysAtPeak": null
+        },
+        "LT": {
+          "rank": 109,
+          "daysAtPeak": null
+        },
+        "NG": {
+          "rank": 80,
+          "daysAtPeak": null
+        },
+        "FR": {
+          "rank": 133,
+          "daysAtPeak": null
+        },
+        "EE": {
+          "rank": 58,
+          "daysAtPeak": null
+        },
+        "FI": {
+          "rank": 85,
+          "daysAtPeak": null
+        },
+        "GR": {
+          "rank": 134,
+          "daysAtPeak": null
+        },
+        "LU": {
+          "rank": 20,
+          "daysAtPeak": null
+        },
+        "BE": {
+          "rank": 114,
+          "daysAtPeak": null
+        },
+        "IS": {
+          "rank": 53,
+          "daysAtPeak": null
+        },
+        "SK": {
+          "rank": 42,
+          "daysAtPeak": null
+        }
+      }
+    },
+    {
+      "title": "Like Crazy (English Version)",
+      "peakDate": "2023/03/24",
+      "streams": 126018061,
+      "globalPeak": 26,
+      "bestPeak": 2,
+      "chartedMarkets": 74,
+      "isTop1": false,
+      "top1Count": 0,
+      "top1Markets": [],
+      "peaks": {
+        "Global": {
+          "rank": 26,
+          "daysAtPeak": null
+        },
+        "US": {
+          "rank": 83,
+          "daysAtPeak": null
+        },
+        "KR": {
+          "rank": 2,
+          "daysAtPeak": null
+        },
+        "TH": {
+          "rank": 22,
+          "daysAtPeak": null
+        },
+        "JP": {
+          "rank": 133,
+          "daysAtPeak": null
+        },
+        "VN": {
+          "rank": 2,
+          "daysAtPeak": null
+        },
+        "CL": {
+          "rank": 85,
+          "daysAtPeak": null
+        },
+        "BR": {
+          "rank": 182,
+          "daysAtPeak": null
+        },
+        "PH": {
+          "rank": 77,
+          "daysAtPeak": null
+        },
+        "PE": {
+          "rank": 18,
+          "daysAtPeak": null
+        },
+        "MX": {
+          "rank": 161,
+          "daysAtPeak": null
+        },
+        "SG": {
+          "rank": 28,
+          "daysAtPeak": null
+        },
+        "TW": {
+          "rank": 66,
+          "daysAtPeak": null
+        },
+        "VE": {
+          "rank": 17,
+          "daysAtPeak": null
+        },
+        "BY": {
+          "rank": 59,
+          "daysAtPeak": null
+        },
+        "MY": {
+          "rank": 29,
+          "daysAtPeak": null
+        },
+        "ID": {
+          "rank": 141,
+          "daysAtPeak": null
+        },
+        "AR": {
+          "rank": 148,
+          "daysAtPeak": null
+        },
+        "PY": {
+          "rank": 33,
+          "daysAtPeak": null
+        },
+        "IN": {
+          "rank": 19,
+          "daysAtPeak": null
+        },
+        "BG": {
+          "rank": 38,
+          "daysAtPeak": null
+        },
+        "RO": {
+          "rank": 16,
+          "daysAtPeak": null
+        },
+        "CO": {
+          "rank": 59,
+          "daysAtPeak": null
+        },
+        "CA": {
+          "rank": 161,
+          "daysAtPeak": null
+        },
+        "KZ": {
+          "rank": 113,
+          "daysAtPeak": null
+        },
+        "CR": {
+          "rank": 92,
+          "daysAtPeak": null
+        },
+        "PL": {
+          "rank": 38,
+          "daysAtPeak": null
+        },
+        "BO": {
+          "rank": 22,
+          "daysAtPeak": null
+        },
+        "GT": {
+          "rank": 61,
+          "daysAtPeak": null
+        },
+        "SV": {
+          "rank": 45,
+          "daysAtPeak": null
+        },
+        "SA": {
+          "rank": 2,
+          "daysAtPeak": null
+        },
+        "HN": {
+          "rank": 30,
+          "daysAtPeak": null
+        },
+        "GB": {
+          "rank": 50,
+          "daysAtPeak": null
+        },
+        "ES": {
+          "rank": 173,
+          "daysAtPeak": null
+        },
+        "HK": {
+          "rank": 43,
+          "daysAtPeak": null
+        },
+        "IT": {
+          "rank": 151,
+          "daysAtPeak": null
+        },
+        "EC": {
+          "rank": 35,
+          "daysAtPeak": null
+        },
+        "LV": {
+          "rank": 105,
+          "daysAtPeak": null
+        },
+        "NI": {
+          "rank": 14,
+          "daysAtPeak": null
+        },
+        "MA": {
+          "rank": 24,
+          "daysAtPeak": null
+        },
+        "CZ": {
+          "rank": 79,
+          "daysAtPeak": null
+        },
+        "PK": {
+          "rank": 2,
+          "daysAtPeak": null
+        },
+        "UY": {
+          "rank": 59,
+          "daysAtPeak": null
+        },
+        "AE": {
+          "rank": 28,
+          "daysAtPeak": null
+        },
+        "DO": {
+          "rank": 143,
+          "daysAtPeak": null
+        },
+        "UA": {
+          "rank": 185,
+          "daysAtPeak": null
+        },
+        "DE": {
+          "rank": 63,
+          "daysAtPeak": null
+        },
+        "PA": {
+          "rank": 66,
+          "daysAtPeak": null
+        },
+        "HU": {
+          "rank": 67,
+          "daysAtPeak": null
+        },
+        "TR": {
+          "rank": 51,
+          "daysAtPeak": null
+        },
+        "IE": {
+          "rank": 129,
+          "daysAtPeak": null
+        },
+        "EG": {
+          "rank": 67,
+          "daysAtPeak": null
+        },
+        "ZA": {
+          "rank": 34,
+          "daysAtPeak": null
+        },
+        "CH": {
+          "rank": 53,
+          "daysAtPeak": null
+        },
+        "PT": {
+          "rank": 41,
+          "daysAtPeak": null
+        },
+        "NL": {
+          "rank": 110,
+          "daysAtPeak": null
+        },
+        "AT": {
+          "rank": 52,
+          "daysAtPeak": null
+        },
+        "LT": {
+          "rank": 82,
+          "daysAtPeak": null
+        },
+        "NG": {
+          "rank": 65,
+          "daysAtPeak": null
+        },
+        "FR": {
+          "rank": 83,
+          "daysAtPeak": null
+        },
+        "EE": {
+          "rank": 176,
+          "daysAtPeak": null
+        },
+        "FI": {
+          "rank": 56,
+          "daysAtPeak": null
+        },
+        "GR": {
+          "rank": 108,
+          "daysAtPeak": null
+        },
+        "AU": {
+          "rank": 110,
+          "daysAtPeak": null
+        },
+        "NO": {
+          "rank": 135,
+          "daysAtPeak": null
+        },
+        "LU": {
+          "rank": 22,
+          "daysAtPeak": null
+        },
+        "BE": {
+          "rank": 75,
+          "daysAtPeak": null
+        },
+        "IS": {
+          "rank": 65,
+          "daysAtPeak": null
+        },
+        "SK": {
+          "rank": 40,
+          "daysAtPeak": null
+        },
+        "DK": {
+          "rank": 118,
+          "daysAtPeak": null
+        },
+        "SE": {
+          "rank": 183,
+          "daysAtPeak": null
+        },
+        "NZ": {
+          "rank": 165,
+          "daysAtPeak": null
+        },
+        "IL": {
+          "rank": 151,
+          "daysAtPeak": null
+        },
+        "CY": {
+          "rank": 125,
+          "daysAtPeak": null
+        }
+      }
+    },
+    {
+      "title": "Smeraldo Garden Marching Band",
+      "peakDate": "2024/06/28",
+      "streams": 115854499,
+      "globalPeak": 13,
+      "bestPeak": 1,
+      "chartedMarkets": 43,
+      "isTop1": true,
+      "top1Count": 3,
+      "top1Markets": [
+        "VN",
+        "KZ",
+        "HN"
+      ],
+      "peaks": {
+        "Global": {
+          "rank": 13,
+          "daysAtPeak": null
+        },
+        "US": {
+          "rank": 36,
+          "daysAtPeak": null
+        },
+        "KR": {
+          "rank": 2,
+          "daysAtPeak": null
+        },
+        "TH": {
+          "rank": 2,
+          "daysAtPeak": null
+        },
+        "JP": {
+          "rank": 33,
+          "daysAtPeak": null
+        },
+        "VN": {
+          "rank": 1,
+          "daysAtPeak": null
+        },
+        "CL": {
+          "rank": 49,
+          "daysAtPeak": null
+        },
+        "BR": {
+          "rank": 59,
+          "daysAtPeak": null
+        },
+        "PH": {
+          "rank": 105,
+          "daysAtPeak": null
+        },
+        "PE": {
+          "rank": 17,
+          "daysAtPeak": null
+        },
+        "MX": {
+          "rank": 193,
+          "daysAtPeak": null
+        },
+        "SG": {
+          "rank": 5,
+          "daysAtPeak": null
+        },
+        "TW": {
+          "rank": 17,
+          "daysAtPeak": null
+        },
+        "VE": {
+          "rank": 8,
+          "daysAtPeak": null
+        },
+        "BY": {
+          "rank": 28,
+          "daysAtPeak": null
+        },
+        "MY": {
+          "rank": 51,
+          "daysAtPeak": null
+        },
+        "AR": {
+          "rank": 150,
+          "daysAtPeak": null
+        },
+        "PY": {
+          "rank": 11,
+          "daysAtPeak": null
+        },
+        "IN": {
+          "rank": 140,
+          "daysAtPeak": null
+        },
+        "BG": {
+          "rank": 3,
+          "daysAtPeak": null
+        },
+        "RO": {
+          "rank": 64,
+          "daysAtPeak": null
+        },
+        "CO": {
+          "rank": 104,
+          "daysAtPeak": null
+        },
+        "KZ": {
+          "rank": 1,
+          "daysAtPeak": null
+        },
+        "CR": {
+          "rank": 54,
+          "daysAtPeak": null
+        },
+        "BO": {
+          "rank": 30,
+          "daysAtPeak": null
+        },
+        "GT": {
+          "rank": 71,
+          "daysAtPeak": null
+        },
+        "SV": {
+          "rank": 13,
+          "daysAtPeak": null
+        },
+        "SA": {
+          "rank": 3,
+          "daysAtPeak": null
+        },
+        "HN": {
+          "rank": 1,
+          "daysAtPeak": null
+        },
+        "HK": {
+          "rank": 20,
+          "daysAtPeak": null
+        },
+        "EC": {
+          "rank": 82,
+          "daysAtPeak": null
+        },
+        "LV": {
+          "rank": 53,
+          "daysAtPeak": null
+        },
+        "NI": {
+          "rank": 5,
+          "daysAtPeak": null
+        },
+        "MA": {
+          "rank": 27,
+          "daysAtPeak": null
+        },
+        "CZ": {
+          "rank": 110,
+          "daysAtPeak": null
+        },
+        "PK": {
+          "rank": 54,
+          "daysAtPeak": null
+        },
+        "UY": {
+          "rank": 139,
+          "daysAtPeak": null
+        },
+        "AE": {
+          "rank": 25,
+          "daysAtPeak": null
+        },
+        "DO": {
+          "rank": 61,
+          "daysAtPeak": null
+        },
+        "UA": {
+          "rank": 96,
+          "daysAtPeak": null
+        },
+        "PA": {
+          "rank": 20,
+          "daysAtPeak": null
+        },
+        "TR": {
+          "rank": 147,
+          "daysAtPeak": null
+        },
+        "EG": {
+          "rank": 159,
+          "daysAtPeak": null
+        }
+      }
+    },
+    {
+      "title": "* Angel Pt. 1",
+      "peakDate": "2023/05/19",
+      "streams": 113397420,
+      "globalPeak": 10,
+      "bestPeak": 1,
+      "chartedMarkets": 47,
+      "isTop1": true,
+      "top1Count": 4,
+      "top1Markets": [
+        "KR",
+        "TH",
+        "VN",
+        "PK"
+      ],
+      "peaks": {
+        "Global": {
+          "rank": 10,
+          "daysAtPeak": null
+        },
+        "US": {
+          "rank": 72,
+          "daysAtPeak": null
+        },
+        "KR": {
+          "rank": 1,
+          "daysAtPeak": null
+        },
+        "TH": {
+          "rank": 1,
+          "daysAtPeak": null
+        },
+        "JP": {
+          "rank": 67,
+          "daysAtPeak": null
+        },
+        "VN": {
+          "rank": 1,
+          "daysAtPeak": null
+        },
+        "CL": {
+          "rank": 58,
+          "daysAtPeak": null
+        },
+        "BR": {
+          "rank": 135,
+          "daysAtPeak": null
+        },
+        "PH": {
+          "rank": 59,
+          "daysAtPeak": null
+        },
+        "PE": {
+          "rank": 13,
+          "daysAtPeak": null
+        },
+        "MX": {
+          "rank": 133,
+          "daysAtPeak": null
+        },
+        "SG": {
+          "rank": 14,
+          "daysAtPeak": null
+        },
+        "TW": {
+          "rank": 34,
+          "daysAtPeak": null
+        },
+        "VE": {
+          "rank": 15,
+          "daysAtPeak": null
+        },
+        "MY": {
+          "rank": 33,
+          "daysAtPeak": null
+        },
+        "ID": {
+          "rank": 134,
+          "daysAtPeak": null
+        },
+        "AR": {
+          "rank": 123,
+          "daysAtPeak": null
+        },
+        "PY": {
+          "rank": 36,
+          "daysAtPeak": null
+        },
+        "BG": {
+          "rank": 43,
+          "daysAtPeak": null
+        },
+        "RO": {
+          "rank": 39,
+          "daysAtPeak": null
+        },
+        "CO": {
+          "rank": 52,
+          "daysAtPeak": null
+        },
+        "CA": {
+          "rank": 95,
+          "daysAtPeak": null
+        },
+        "KZ": {
+          "rank": 77,
+          "daysAtPeak": null
+        },
+        "CR": {
+          "rank": 77,
+          "daysAtPeak": null
+        },
+        "BO": {
+          "rank": 20,
+          "daysAtPeak": null
+        },
+        "GT": {
+          "rank": 52,
+          "daysAtPeak": null
+        },
+        "SV": {
+          "rank": 23,
+          "daysAtPeak": null
+        },
+        "SA": {
+          "rank": 3,
+          "daysAtPeak": null
+        },
+        "HN": {
+          "rank": 16,
+          "daysAtPeak": null
+        },
+        "HK": {
+          "rank": 41,
+          "daysAtPeak": null
+        },
+        "EC": {
+          "rank": 37,
+          "daysAtPeak": null
+        },
+        "LV": {
+          "rank": 137,
+          "daysAtPeak": null
+        },
+        "NI": {
+          "rank": 9,
+          "daysAtPeak": null
+        },
+        "MA": {
+          "rank": 71,
+          "daysAtPeak": null
+        },
+        "PK": {
+          "rank": 1,
+          "daysAtPeak": null
+        },
+        "UY": {
+          "rank": 114,
+          "daysAtPeak": null
+        },
+        "AE": {
+          "rank": 17,
+          "daysAtPeak": null
+        },
+        "DO": {
+          "rank": 80,
+          "daysAtPeak": null
+        },
+        "UA": {
+          "rank": 162,
+          "daysAtPeak": null
+        },
+        "DE": {
+          "rank": 180,
+          "daysAtPeak": null
+        },
+        "PA": {
+          "rank": 38,
+          "daysAtPeak": null
+        },
+        "EG": {
+          "rank": 154,
+          "daysAtPeak": null
+        },
+        "ZA": {
+          "rank": 88,
+          "daysAtPeak": null
+        },
+        "LT": {
+          "rank": 186,
+          "daysAtPeak": null
+        },
+        "NG": {
+          "rank": 130,
+          "daysAtPeak": null
+        },
+        "EE": {
+          "rank": 100,
+          "daysAtPeak": null
+        },
+        "FI": {
+          "rank": 191,
+          "daysAtPeak": null
+        }
+      }
+    },
+    {
+      "title": "Closer Than This",
+      "peakDate": "2023/12/22",
+      "streams": 90711335,
+      "globalPeak": 65,
+      "bestPeak": 2,
+      "chartedMarkets": 41,
+      "isTop1": false,
+      "top1Count": 0,
+      "top1Markets": [],
+      "peaks": {
+        "Global": {
+          "rank": 65,
+          "daysAtPeak": null
+        },
+        "US": {
+          "rank": 164,
+          "daysAtPeak": null
+        },
+        "KR": {
+          "rank": 2,
+          "daysAtPeak": null
+        },
+        "TH": {
+          "rank": 2,
+          "daysAtPeak": null
+        },
+        "JP": {
+          "rank": 73,
+          "daysAtPeak": null
+        },
+        "VN": {
+          "rank": 3,
+          "daysAtPeak": null
+        },
+        "CL": {
+          "rank": 121,
+          "daysAtPeak": null
+        },
+        "BR": {
+          "rank": 150,
+          "daysAtPeak": null
+        },
+        "PH": {
+          "rank": 129,
+          "daysAtPeak": null
+        },
+        "PE": {
+          "rank": 34,
+          "daysAtPeak": null
+        },
+        "MX": {
+          "rank": 184,
+          "daysAtPeak": null
+        },
+        "SG": {
+          "rank": 13,
+          "daysAtPeak": null
+        },
+        "TW": {
+          "rank": 53,
+          "daysAtPeak": null
+        },
+        "VE": {
+          "rank": 16,
+          "daysAtPeak": null
+        },
+        "BY": {
+          "rank": 131,
+          "daysAtPeak": null
+        },
+        "MY": {
+          "rank": 90,
+          "daysAtPeak": null
+        },
+        "AR": {
+          "rank": 169,
+          "daysAtPeak": null
+        },
+        "PY": {
+          "rank": 88,
+          "daysAtPeak": null
+        },
+        "BG": {
+          "rank": 11,
+          "daysAtPeak": null
+        },
+        "RO": {
+          "rank": 106,
+          "daysAtPeak": null
+        },
+        "CO": {
+          "rank": 111,
+          "daysAtPeak": null
+        },
+        "KZ": {
+          "rank": 27,
+          "daysAtPeak": null
+        },
+        "CR": {
+          "rank": 92,
+          "daysAtPeak": null
+        },
+        "BO": {
+          "rank": 50,
+          "daysAtPeak": null
+        },
+        "GT": {
+          "rank": 156,
+          "daysAtPeak": null
+        },
+        "SV": {
+          "rank": 29,
+          "daysAtPeak": null
+        },
+        "SA": {
+          "rank": 14,
+          "daysAtPeak": null
+        },
+        "HN": {
+          "rank": 21,
+          "daysAtPeak": null
+        },
+        "HK": {
+          "rank": 45,
+          "daysAtPeak": null
+        },
+        "EC": {
+          "rank": 73,
+          "daysAtPeak": null
+        },
+        "LV": {
+          "rank": 171,
+          "daysAtPeak": null
+        },
+        "NI": {
+          "rank": 44,
+          "daysAtPeak": null
+        },
+        "MA": {
+          "rank": 47,
+          "daysAtPeak": null
+        },
+        "CZ": {
+          "rank": 126,
+          "daysAtPeak": null
+        },
+        "PK": {
+          "rank": 34,
+          "daysAtPeak": null
+        },
+        "AE": {
+          "rank": 68,
+          "daysAtPeak": null
+        },
+        "DO": {
+          "rank": 85,
+          "daysAtPeak": null
+        },
+        "UA": {
+          "rank": 75,
+          "daysAtPeak": null
+        },
+        "PA": {
+          "rank": 59,
+          "daysAtPeak": null
+        },
+        "EG": {
+          "rank": 76,
+          "daysAtPeak": null
+        },
+        "EE": {
+          "rank": 16,
+          "daysAtPeak": null
+        }
+      }
+    },
+    {
+      "title": "* VIBE",
+      "peakDate": "2023/01/13",
+      "streams": 66748010,
+      "globalPeak": 32,
+      "bestPeak": 1,
+      "chartedMarkets": 53,
+      "isTop1": true,
+      "top1Count": 1,
+      "top1Markets": [
+        "TH"
+      ],
+      "peaks": {
+        "Global": {
+          "rank": 32,
+          "daysAtPeak": null
+        },
+        "US": {
+          "rank": 182,
+          "daysAtPeak": null
+        },
+        "KR": {
+          "rank": 3,
+          "daysAtPeak": null
+        },
+        "TH": {
+          "rank": 1,
+          "daysAtPeak": null
+        },
+        "JP": {
+          "rank": 57,
+          "daysAtPeak": null
+        },
+        "VN": {
+          "rank": 2,
+          "daysAtPeak": null
+        },
+        "CL": {
+          "rank": 141,
+          "daysAtPeak": null
+        },
+        "BR": {
+          "rank": 125,
+          "daysAtPeak": null
+        },
+        "PH": {
+          "rank": 39,
+          "daysAtPeak": null
+        },
+        "PE": {
+          "rank": 38,
+          "daysAtPeak": null
+        },
+        "MX": {
+          "rank": 142,
+          "daysAtPeak": null
+        },
+        "SG": {
+          "rank": 10,
+          "daysAtPeak": null
+        },
+        "TW": {
+          "rank": 12,
+          "daysAtPeak": null
+        },
+        "VE": {
+          "rank": 57,
+          "daysAtPeak": null
+        },
+        "MY": {
+          "rank": 12,
+          "daysAtPeak": null
+        },
+        "ID": {
+          "rank": 76,
+          "daysAtPeak": null
+        },
+        "AR": {
+          "rank": 130,
+          "daysAtPeak": null
+        },
+        "PY": {
+          "rank": 31,
+          "daysAtPeak": null
+        },
+        "IN": {
+          "rank": 160,
+          "daysAtPeak": null
+        },
+        "BG": {
+          "rank": 102,
+          "daysAtPeak": null
+        },
+        "RO": {
+          "rank": 97,
+          "daysAtPeak": null
+        },
+        "CO": {
+          "rank": 80,
+          "daysAtPeak": null
+        },
+        "CA": {
+          "rank": 107,
+          "daysAtPeak": null
+        },
+        "KZ": {
+          "rank": 179,
+          "daysAtPeak": null
+        },
+        "CR": {
+          "rank": 166,
+          "daysAtPeak": null
+        },
+        "BO": {
+          "rank": 40,
+          "daysAtPeak": null
+        },
+        "GT": {
+          "rank": 64,
+          "daysAtPeak": null
+        },
+        "SV": {
+          "rank": 38,
+          "daysAtPeak": null
+        },
+        "SA": {
+          "rank": 17,
+          "daysAtPeak": null
+        },
+        "HN": {
+          "rank": 52,
+          "daysAtPeak": null
+        },
+        "HK": {
+          "rank": 24,
+          "daysAtPeak": null
+        },
+        "EC": {
+          "rank": 71,
+          "daysAtPeak": null
+        },
+        "LV": {
+          "rank": 119,
+          "daysAtPeak": null
+        },
+        "NI": {
+          "rank": 51,
+          "daysAtPeak": null
+        },
+        "MA": {
+          "rank": 139,
+          "daysAtPeak": null
+        },
+        "PK": {
+          "rank": 13,
+          "daysAtPeak": null
+        },
+        "UY": {
+          "rank": 166,
+          "daysAtPeak": null
+        },
+        "AE": {
+          "rank": 28,
+          "daysAtPeak": null
+        },
+        "DO": {
+          "rank": 22,
+          "daysAtPeak": null
+        },
+        "UA": {
+          "rank": 126,
+          "daysAtPeak": null
+        },
+        "DE": {
+          "rank": 187,
+          "daysAtPeak": null
+        },
+        "PA": {
+          "rank": 40,
+          "daysAtPeak": null
+        },
+        "HU": {
+          "rank": 159,
+          "daysAtPeak": null
+        },
+        "TR": {
+          "rank": 140,
+          "daysAtPeak": null
+        },
+        "EG": {
+          "rank": 100,
+          "daysAtPeak": null
+        },
+        "ZA": {
+          "rank": 158,
+          "daysAtPeak": null
+        },
+        "PT": {
+          "rank": 144,
+          "daysAtPeak": null
+        },
+        "AT": {
+          "rank": 144,
+          "daysAtPeak": null
+        },
+        "LT": {
+          "rank": 199,
+          "daysAtPeak": null
+        },
+        "NG": {
+          "rank": 102,
+          "daysAtPeak": null
+        },
+        "EE": {
+          "rank": 110,
+          "daysAtPeak": null
+        },
+        "BE": {
+          "rank": 27,
+          "daysAtPeak": null
+        },
+        "SK": {
+          "rank": 164,
+          "daysAtPeak": null
+        }
+      }
+    },
+    {
+      "title": "With you",
+      "peakDate": "2022/04/25",
+      "streams": 58210835,
+      "globalPeak": 32,
+      "bestPeak": 1,
+      "chartedMarkets": 50,
+      "isTop1": true,
+      "top1Count": 3,
+      "top1Markets": [
+        "TH",
+        "VN",
+        "MA"
+      ],
+      "peaks": {
+        "Global": {
+          "rank": 32,
+          "daysAtPeak": null
+        },
+        "US": {
+          "rank": 92,
+          "daysAtPeak": null
+        },
+        "KR": {
+          "rank": 3,
+          "daysAtPeak": null
+        },
+        "TH": {
+          "rank": 1,
+          "daysAtPeak": null
+        },
+        "JP": {
+          "rank": 128,
+          "daysAtPeak": null
+        },
+        "VN": {
+          "rank": 1,
+          "daysAtPeak": null
+        },
+        "CL": {
+          "rank": 70,
+          "daysAtPeak": null
+        },
+        "BR": {
+          "rank": 60,
+          "daysAtPeak": null
+        },
+        "PH": {
+          "rank": 36,
+          "daysAtPeak": null
+        },
+        "PE": {
+          "rank": 28,
+          "daysAtPeak": null
+        },
+        "MX": {
+          "rank": 122,
+          "daysAtPeak": null
+        },
+        "SG": {
+          "rank": 21,
+          "daysAtPeak": null
+        },
+        "TW": {
+          "rank": 38,
+          "daysAtPeak": null
+        },
+        "VE": {
+          "rank": 51,
+          "daysAtPeak": null
+        },
+        "BY": {
+          "rank": 61,
+          "daysAtPeak": null
+        },
+        "MY": {
+          "rank": 15,
+          "daysAtPeak": null
+        },
+        "ID": {
+          "rank": 23,
+          "daysAtPeak": null
+        },
+        "AR": {
+          "rank": 75,
+          "daysAtPeak": null
+        },
+        "PY": {
+          "rank": 46,
+          "daysAtPeak": null
+        },
+        "IN": {
+          "rank": 36,
+          "daysAtPeak": null
+        },
+        "BG": {
+          "rank": 48,
+          "daysAtPeak": null
+        },
+        "RO": {
+          "rank": 71,
+          "daysAtPeak": null
+        },
+        "CO": {
+          "rank": 57,
+          "daysAtPeak": null
+        },
+        "CA": {
+          "rank": 63,
+          "daysAtPeak": null
+        },
+        "KZ": {
+          "rank": 162,
+          "daysAtPeak": null
+        },
+        "CR": {
+          "rank": 60,
+          "daysAtPeak": null
+        },
+        "BO": {
+          "rank": 45,
+          "daysAtPeak": null
+        },
+        "GT": {
+          "rank": 61,
+          "daysAtPeak": null
+        },
+        "SV": {
+          "rank": 52,
+          "daysAtPeak": null
+        },
+        "SA": {
+          "rank": 9,
+          "daysAtPeak": null
+        },
+        "HN": {
+          "rank": 46,
+          "daysAtPeak": null
+        },
+        "HK": {
+          "rank": 74,
+          "daysAtPeak": null
+        },
+        "EC": {
+          "rank": 54,
+          "daysAtPeak": null
+        },
+        "NI": {
+          "rank": 53,
+          "daysAtPeak": null
+        },
+        "MA": {
+          "rank": 1,
+          "daysAtPeak": null
+        },
+        "PK": {
+          "rank": 50,
+          "daysAtPeak": null
+        },
+        "UY": {
+          "rank": 114,
+          "daysAtPeak": null
+        },
+        "AE": {
+          "rank": 29,
+          "daysAtPeak": null
+        },
+        "DO": {
+          "rank": 172,
+          "daysAtPeak": null
+        },
+        "DE": {
+          "rank": 195,
+          "daysAtPeak": null
+        },
+        "PA": {
+          "rank": 33,
+          "daysAtPeak": null
+        },
+        "TR": {
+          "rank": 133,
+          "daysAtPeak": null
+        },
+        "EG": {
+          "rank": 59,
+          "daysAtPeak": null
+        },
+        "ZA": {
+          "rank": 38,
+          "daysAtPeak": null
+        },
+        "CH": {
+          "rank": 163,
+          "daysAtPeak": null
+        },
+        "PT": {
+          "rank": 86,
+          "daysAtPeak": null
+        },
+        "LT": {
+          "rank": 60,
+          "daysAtPeak": null
+        },
+        "NG": {
+          "rank": 73,
+          "daysAtPeak": null
+        },
+        "LU": {
+          "rank": 68,
+          "daysAtPeak": null
+        },
+        "IS": {
+          "rank": 46,
+          "daysAtPeak": null
+        }
+      }
+    },
+    {
+      "title": "Rebirth (Intro)",
+      "peakDate": "2024/07/19",
+      "streams": 32411558,
+      "globalPeak": 171,
+      "bestPeak": 2,
+      "chartedMarkets": 31,
+      "isTop1": false,
+      "top1Count": 0,
+      "top1Markets": [],
+      "peaks": {
+        "Global": {
+          "rank": 171,
+          "daysAtPeak": null
+        },
+        "KR": {
+          "rank": 4,
+          "daysAtPeak": null
+        },
+        "TH": {
+          "rank": 104,
+          "daysAtPeak": null
+        },
+        "JP": {
+          "rank": 190,
+          "daysAtPeak": null
+        },
+        "VN": {
+          "rank": 14,
+          "daysAtPeak": null
+        },
+        "CL": {
+          "rank": 43,
+          "daysAtPeak": null
+        },
+        "BR": {
+          "rank": 99,
+          "daysAtPeak": null
+        },
+        "PE": {
+          "rank": 153,
+          "daysAtPeak": null
+        },
+        "SG": {
+          "rank": 70,
+          "daysAtPeak": null
+        },
+        "TW": {
+          "rank": 185,
+          "daysAtPeak": null
+        },
+        "VE": {
+          "rank": 18,
+          "daysAtPeak": null
+        },
+        "BY": {
+          "rank": 6,
+          "daysAtPeak": null
+        },
+        "MY": {
+          "rank": 175,
+          "daysAtPeak": null
+        },
+        "PY": {
+          "rank": 133,
+          "daysAtPeak": null
+        },
+        "BG": {
+          "rank": 5,
+          "daysAtPeak": null
+        },
+        "RO": {
+          "rank": 64,
+          "daysAtPeak": null
+        },
+        "KZ": {
+          "rank": 69,
+          "daysAtPeak": null
+        },
+        "BO": {
+          "rank": 76,
+          "daysAtPeak": null
+        },
+        "SV": {
+          "rank": 103,
+          "daysAtPeak": null
+        },
+        "SA": {
+          "rank": 33,
+          "daysAtPeak": null
+        },
+        "HN": {
+          "rank": 63,
+          "daysAtPeak": null
+        },
+        "HK": {
+          "rank": 83,
+          "daysAtPeak": null
+        },
+        "EC": {
+          "rank": 170,
+          "daysAtPeak": null
+        },
+        "LV": {
+          "rank": 2,
+          "daysAtPeak": null
+        },
+        "NI": {
+          "rank": 179,
+          "daysAtPeak": null
+        },
+        "MA": {
+          "rank": 153,
+          "daysAtPeak": null
+        },
+        "PK": {
+          "rank": 114,
+          "daysAtPeak": null
+        },
+        "AE": {
+          "rank": 94,
+          "daysAtPeak": null
+        },
+        "DO": {
+          "rank": 135,
+          "daysAtPeak": null
+        },
+        "PA": {
+          "rank": 52,
+          "daysAtPeak": null
+        },
+        "EG": {
+          "rank": 188,
+          "daysAtPeak": null
+        }
+      }
+    },
+    {
+      "title": "Slow Dance",
+      "peakDate": "2024/07/19",
+      "streams": 29378145,
+      "globalPeak": 133,
+      "bestPeak": 4,
+      "chartedMarkets": 34,
+      "isTop1": false,
+      "top1Count": 0,
+      "top1Markets": [],
+      "peaks": {
+        "Global": {
+          "rank": 133,
+          "daysAtPeak": null
+        },
+        "KR": {
+          "rank": 6,
+          "daysAtPeak": null
+        },
+        "TH": {
+          "rank": 124,
+          "daysAtPeak": null
+        },
+        "JP": {
+          "rank": 181,
+          "daysAtPeak": null
+        },
+        "VN": {
+          "rank": 8,
+          "daysAtPeak": null
+        },
+        "CL": {
+          "rank": 122,
+          "daysAtPeak": null
+        },
+        "BR": {
+          "rank": 185,
+          "daysAtPeak": null
+        },
+        "PE": {
+          "rank": 112,
+          "daysAtPeak": null
+        },
+        "SG": {
+          "rank": 75,
+          "daysAtPeak": null
+        },
+        "TW": {
+          "rank": 120,
+          "daysAtPeak": null
+        },
+        "VE": {
+          "rank": 20,
+          "daysAtPeak": null
+        },
+        "BY": {
+          "rank": 7,
+          "daysAtPeak": null
+        },
+        "MY": {
+          "rank": 178,
+          "daysAtPeak": null
+        },
+        "PY": {
+          "rank": 124,
+          "daysAtPeak": null
+        },
+        "BG": {
+          "rank": 4,
+          "daysAtPeak": null
+        },
+        "RO": {
+          "rank": 35,
+          "daysAtPeak": null
+        },
+        "CO": {
+          "rank": 197,
+          "daysAtPeak": null
+        },
+        "KZ": {
+          "rank": 62,
+          "daysAtPeak": null
+        },
+        "CR": {
+          "rank": 129,
+          "daysAtPeak": null
+        },
+        "BO": {
+          "rank": 61,
+          "daysAtPeak": null
+        },
+        "GT": {
+          "rank": 168,
+          "daysAtPeak": null
+        },
+        "SV": {
+          "rank": 176,
+          "daysAtPeak": null
+        },
+        "SA": {
+          "rank": 29,
+          "daysAtPeak": null
+        },
+        "HN": {
+          "rank": 185,
+          "daysAtPeak": null
+        },
+        "HK": {
+          "rank": 81,
+          "daysAtPeak": null
+        },
+        "EC": {
+          "rank": 147,
+          "daysAtPeak": null
+        },
+        "LV": {
+          "rank": 81,
+          "daysAtPeak": null
+        },
+        "NI": {
+          "rank": 103,
+          "daysAtPeak": null
+        },
+        "MA": {
+          "rank": 139,
+          "daysAtPeak": null
+        },
+        "PK": {
+          "rank": 100,
+          "daysAtPeak": null
+        },
+        "AE": {
+          "rank": 87,
+          "daysAtPeak": null
+        },
+        "DO": {
+          "rank": 129,
+          "daysAtPeak": null
+        },
+        "PA": {
+          "rank": 128,
+          "daysAtPeak": null
+        },
+        "EG": {
+          "rank": 171,
+          "daysAtPeak": null
+        }
+      }
+    },
+    {
+      "title": "Face-off",
+      "peakDate": "2023/03/24",
+      "streams": 19158302,
+      "globalPeak": 125,
+      "bestPeak": 5,
+      "chartedMarkets": 51,
+      "isTop1": false,
+      "top1Count": 0,
+      "top1Markets": [],
+      "peaks": {
+        "Global": {
+          "rank": 125,
+          "daysAtPeak": null
+        },
+        "US": {
+          "rank": 110,
+          "daysAtPeak": null
+        },
+        "KR": {
+          "rank": 5,
+          "daysAtPeak": null
+        },
+        "TH": {
+          "rank": 61,
+          "daysAtPeak": null
+        },
+        "JP": {
+          "rank": 160,
+          "daysAtPeak": null
+        },
+        "VN": {
+          "rank": 9,
+          "daysAtPeak": null
+        },
+        "CL": {
+          "rank": 169,
+          "daysAtPeak": null
+        },
+        "BR": {
+          "rank": 120,
+          "daysAtPeak": null
+        },
+        "PH": {
+          "rank": 99,
+          "daysAtPeak": null
+        },
+        "PE": {
+          "rank": 76,
+          "daysAtPeak": null
+        },
+        "MX": {
+          "rank": 147,
+          "daysAtPeak": null
+        },
+        "SG": {
+          "rank": 106,
+          "daysAtPeak": null
+        },
+        "TW": {
+          "rank": 194,
+          "daysAtPeak": null
+        },
+        "VE": {
+          "rank": 100,
+          "daysAtPeak": null
+        },
+        "BY": {
+          "rank": 146,
+          "daysAtPeak": null
+        },
+        "MY": {
+          "rank": 92,
+          "daysAtPeak": null
+        },
+        "ID": {
+          "rank": 199,
+          "daysAtPeak": null
+        },
+        "AR": {
+          "rank": 189,
+          "daysAtPeak": null
+        },
+        "PY": {
+          "rank": 87,
+          "daysAtPeak": null
+        },
+        "IN": {
+          "rank": 144,
+          "daysAtPeak": null
+        },
+        "BG": {
+          "rank": 69,
+          "daysAtPeak": null
+        },
+        "RO": {
+          "rank": 198,
+          "daysAtPeak": null
+        },
+        "CO": {
+          "rank": 113,
+          "daysAtPeak": null
+        },
+        "CA": {
+          "rank": 136,
+          "daysAtPeak": null
+        },
+        "KZ": {
+          "rank": 62,
+          "daysAtPeak": null
+        },
+        "CR": {
+          "rank": 149,
+          "daysAtPeak": null
+        },
+        "BO": {
+          "rank": 98,
+          "daysAtPeak": null
+        },
+        "GT": {
+          "rank": 100,
+          "daysAtPeak": null
+        },
+        "SV": {
+          "rank": 120,
+          "daysAtPeak": null
+        },
+        "SA": {
+          "rank": 22,
+          "daysAtPeak": null
+        },
+        "HN": {
+          "rank": 140,
+          "daysAtPeak": null
+        },
+        "HK": {
+          "rank": 130,
+          "daysAtPeak": null
+        },
+        "EC": {
+          "rank": 190,
+          "daysAtPeak": null
+        },
+        "LV": {
+          "rank": 34,
+          "daysAtPeak": null
+        },
+        "NI": {
+          "rank": 103,
+          "daysAtPeak": null
+        },
+        "MA": {
+          "rank": 97,
+          "daysAtPeak": null
+        },
+        "PK": {
+          "rank": 19,
+          "daysAtPeak": null
+        },
+        "AE": {
+          "rank": 83,
+          "daysAtPeak": null
+        },
+        "DO": {
+          "rank": 176,
+          "daysAtPeak": null
+        },
+        "UA": {
+          "rank": 55,
+          "daysAtPeak": null
+        },
+        "PA": {
+          "rank": 92,
+          "daysAtPeak": null
+        },
+        "TR": {
+          "rank": 195,
+          "daysAtPeak": null
+        },
+        "EG": {
+          "rank": 162,
+          "daysAtPeak": null
+        },
+        "ZA": {
+          "rank": 141,
+          "daysAtPeak": null
+        },
+        "PT": {
+          "rank": 171,
+          "daysAtPeak": null
+        },
+        "LT": {
+          "rank": 77,
+          "daysAtPeak": null
+        },
+        "NG": {
+          "rank": 171,
+          "daysAtPeak": null
+        },
+        "EE": {
+          "rank": 28,
+          "daysAtPeak": null
+        },
+        "LU": {
+          "rank": 16,
+          "daysAtPeak": null
+        },
+        "IS": {
+          "rank": 61,
+          "daysAtPeak": null
+        },
+        "CY": {
+          "rank": 165,
+          "daysAtPeak": null
+        }
+      }
+    },
+    {
+      "title": "Alone",
+      "peakDate": "2023/03/24",
+      "streams": 18052837,
+      "globalPeak": 158,
+      "bestPeak": 6,
+      "chartedMarkets": 43,
+      "isTop1": false,
+      "top1Count": 0,
+      "top1Markets": [],
+      "peaks": {
+        "Global": {
+          "rank": 158,
+          "daysAtPeak": null
+        },
+        "US": {
+          "rank": 151,
+          "daysAtPeak": null
+        },
+        "KR": {
+          "rank": 6,
+          "daysAtPeak": null
+        },
+        "TH": {
+          "rank": 63,
+          "daysAtPeak": null
+        },
+        "JP": {
+          "rank": 191,
+          "daysAtPeak": null
+        },
+        "VN": {
+          "rank": 8,
+          "daysAtPeak": null
+        },
+        "CL": {
+          "rank": 185,
+          "daysAtPeak": null
+        },
+        "BR": {
+          "rank": 138,
+          "daysAtPeak": null
+        },
+        "PH": {
+          "rank": 122,
+          "daysAtPeak": null
+        },
+        "PE": {
+          "rank": 84,
+          "daysAtPeak": null
+        },
+        "MX": {
+          "rank": 170,
+          "daysAtPeak": null
+        },
+        "SG": {
+          "rank": 113,
+          "daysAtPeak": null
+        },
+        "TW": {
+          "rank": 100,
+          "daysAtPeak": null
+        },
+        "VE": {
+          "rank": 118,
+          "daysAtPeak": null
+        },
+        "BY": {
+          "rank": 47,
+          "daysAtPeak": null
+        },
+        "MY": {
+          "rank": 99,
+          "daysAtPeak": null
+        },
+        "PY": {
+          "rank": 92,
+          "daysAtPeak": null
+        },
+        "BG": {
+          "rank": 129,
+          "daysAtPeak": null
+        },
+        "RO": {
+          "rank": 57,
+          "daysAtPeak": null
+        },
+        "CO": {
+          "rank": 130,
+          "daysAtPeak": null
+        },
+        "CA": {
+          "rank": 196,
+          "daysAtPeak": null
+        },
+        "KZ": {
+          "rank": 89,
+          "daysAtPeak": null
+        },
+        "CR": {
+          "rank": 176,
+          "daysAtPeak": null
+        },
+        "BO": {
+          "rank": 102,
+          "daysAtPeak": null
+        },
+        "GT": {
+          "rank": 114,
+          "daysAtPeak": null
+        },
+        "SV": {
+          "rank": 138,
+          "daysAtPeak": null
+        },
+        "SA": {
+          "rank": 29,
+          "daysAtPeak": null
+        },
+        "HN": {
+          "rank": 171,
+          "daysAtPeak": null
+        },
+        "HK": {
+          "rank": 138,
+          "daysAtPeak": null
+        },
+        "EC": {
+          "rank": 76,
+          "daysAtPeak": null
+        },
+        "LV": {
+          "rank": 159,
+          "daysAtPeak": null
+        },
+        "NI": {
+          "rank": 125,
+          "daysAtPeak": null
+        },
+        "MA": {
+          "rank": 108,
+          "daysAtPeak": null
+        },
+        "PK": {
+          "rank": 20,
+          "daysAtPeak": null
+        },
+        "AE": {
+          "rank": 98,
+          "daysAtPeak": null
+        },
+        "DO": {
+          "rank": 196,
+          "daysAtPeak": null
+        },
+        "UA": {
+          "rank": 97,
+          "daysAtPeak": null
+        },
+        "PA": {
+          "rank": 110,
+          "daysAtPeak": null
+        },
+        "EG": {
+          "rank": 65,
+          "daysAtPeak": null
+        },
+        "LT": {
+          "rank": 108,
+          "daysAtPeak": null
+        },
+        "EE": {
+          "rank": 128,
+          "daysAtPeak": null
+        },
+        "LU": {
+          "rank": 177,
+          "daysAtPeak": null
+        },
+        "IS": {
+          "rank": 43,
+          "daysAtPeak": null
+        }
+      }
+    },
+    {
+      "title": "* Angel Pt. 2",
+      "peakDate": "2023/06/16",
+      "streams": 17741328,
+      "globalPeak": 88,
+      "bestPeak": 3,
+      "chartedMarkets": 32,
+      "isTop1": false,
+      "top1Count": 0,
+      "top1Markets": [],
+      "peaks": {
+        "Global": {
+          "rank": 88,
+          "daysAtPeak": null
+        },
+        "US": {
+          "rank": 140,
+          "daysAtPeak": null
+        },
+        "KR": {
+          "rank": 5,
+          "daysAtPeak": null
+        },
+        "TH": {
+          "rank": 4,
+          "daysAtPeak": null
+        },
+        "JP": {
+          "rank": 109,
+          "daysAtPeak": null
+        },
+        "VN": {
+          "rank": 3,
+          "daysAtPeak": null
+        },
+        "CL": {
+          "rank": 62,
+          "daysAtPeak": null
+        },
+        "PH": {
+          "rank": 107,
+          "daysAtPeak": null
+        },
+        "PE": {
+          "rank": 83,
+          "daysAtPeak": null
+        },
+        "SG": {
+          "rank": 76,
+          "daysAtPeak": null
+        },
+        "TW": {
+          "rank": 135,
+          "daysAtPeak": null
+        },
+        "VE": {
+          "rank": 69,
+          "daysAtPeak": null
+        },
+        "MY": {
+          "rank": 100,
+          "daysAtPeak": null
+        },
+        "PY": {
+          "rank": 85,
+          "daysAtPeak": null
+        },
+        "BG": {
+          "rank": 163,
+          "daysAtPeak": null
+        },
+        "CO": {
+          "rank": 109,
+          "daysAtPeak": null
+        },
+        "CR": {
+          "rank": 143,
+          "daysAtPeak": null
+        },
+        "BO": {
+          "rank": 90,
+          "daysAtPeak": null
+        },
+        "GT": {
+          "rank": 101,
+          "daysAtPeak": null
+        },
+        "SV": {
+          "rank": 154,
+          "daysAtPeak": null
+        },
+        "SA": {
+          "rank": 29,
+          "daysAtPeak": null
+        },
+        "HN": {
+          "rank": 82,
+          "daysAtPeak": null
+        },
+        "HK": {
+          "rank": 102,
+          "daysAtPeak": null
+        },
+        "EC": {
+          "rank": 170,
+          "daysAtPeak": null
+        },
+        "NI": {
+          "rank": 129,
+          "daysAtPeak": null
+        },
+        "MA": {
+          "rank": 112,
+          "daysAtPeak": null
+        },
+        "PK": {
+          "rank": 37,
+          "daysAtPeak": null
+        },
+        "UY": {
+          "rank": 145,
+          "daysAtPeak": null
+        },
+        "AE": {
+          "rank": 116,
+          "daysAtPeak": null
+        },
+        "PA": {
+          "rank": 200,
+          "daysAtPeak": null
+        },
+        "EG": {
+          "rank": 105,
+          "daysAtPeak": null
+        },
+        "EE": {
+          "rank": 17,
+          "daysAtPeak": null
+        }
+      }
+    },
+    {
+      "title": "Interlude : Showtime",
+      "peakDate": "2024/07/19",
+      "streams": 17360428,
+      "globalPeak": 109,
+      "bestPeak": 3,
+      "chartedMarkets": 27,
+      "isTop1": false,
+      "top1Count": 0,
+      "top1Markets": [],
+      "peaks": {
+        "Global": {
+          "rank": 109,
+          "daysAtPeak": null
+        },
+        "KR": {
+          "rank": 5,
+          "daysAtPeak": null
+        },
+        "TH": {
+          "rank": 123,
+          "daysAtPeak": null
+        },
+        "VN": {
+          "rank": 55,
+          "daysAtPeak": null
+        },
+        "BR": {
+          "rank": 130,
+          "daysAtPeak": null
+        },
+        "PH": {
+          "rank": 195,
+          "daysAtPeak": null
+        },
+        "PE": {
+          "rank": 171,
+          "daysAtPeak": null
+        },
+        "SG": {
+          "rank": 156,
+          "daysAtPeak": null
+        },
+        "VE": {
+          "rank": 3,
+          "daysAtPeak": null
+        },
+        "BY": {
+          "rank": 70,
+          "daysAtPeak": null
+        },
+        "MY": {
+          "rank": 130,
+          "daysAtPeak": null
+        },
+        "PY": {
+          "rank": 166,
+          "daysAtPeak": null
+        },
+        "BG": {
+          "rank": 9,
+          "daysAtPeak": null
+        },
+        "KZ": {
+          "rank": 99,
+          "daysAtPeak": null
+        },
+        "BO": {
+          "rank": 80,
+          "daysAtPeak": null
+        },
+        "SV": {
+          "rank": 120,
+          "daysAtPeak": null
+        },
+        "SA": {
+          "rank": 59,
+          "daysAtPeak": null
+        },
+        "HN": {
+          "rank": 72,
+          "daysAtPeak": null
+        },
+        "HK": {
+          "rank": 146,
+          "daysAtPeak": null
+        },
+        "EC": {
+          "rank": 195,
+          "daysAtPeak": null
+        },
+        "LV": {
+          "rank": 3,
+          "daysAtPeak": null
+        },
+        "NI": {
+          "rank": 198,
+          "daysAtPeak": null
+        },
+        "MA": {
+          "rank": 118,
+          "daysAtPeak": null
+        },
+        "PK": {
+          "rank": 164,
+          "daysAtPeak": null
+        },
+        "AE": {
+          "rank": 117,
+          "daysAtPeak": null
+        },
+        "DO": {
+          "rank": 158,
+          "daysAtPeak": null
+        },
+        "PA": {
+          "rank": 181,
+          "daysAtPeak": null
+        }
+      }
+    },
+    {
+      "title": "Interlude : Dive",
+      "peakDate": "2023/03/24",
+      "streams": 13265817,
+      "globalPeak": 62,
+      "bestPeak": 7,
+      "chartedMarkets": 36,
+      "isTop1": false,
+      "top1Count": 0,
+      "top1Markets": [],
+      "peaks": {
+        "Global": {
+          "rank": 62,
+          "daysAtPeak": null
+        },
+        "KR": {
+          "rank": 7,
+          "daysAtPeak": null
+        },
+        "TH": {
+          "rank": 8,
+          "daysAtPeak": null
+        },
+        "VN": {
+          "rank": 16,
+          "daysAtPeak": null
+        },
+        "CL": {
+          "rank": 192,
+          "daysAtPeak": null
+        },
+        "BR": {
+          "rank": 161,
+          "daysAtPeak": null
+        },
+        "PH": {
+          "rank": 140,
+          "daysAtPeak": null
+        },
+        "PE": {
+          "rank": 117,
+          "daysAtPeak": null
+        },
+        "SG": {
+          "rank": 129,
+          "daysAtPeak": null
+        },
+        "TW": {
+          "rank": 138,
+          "daysAtPeak": null
+        },
+        "VE": {
+          "rank": 128,
+          "daysAtPeak": null
+        },
+        "BY": {
+          "rank": 78,
+          "daysAtPeak": null
+        },
+        "MY": {
+          "rank": 149,
+          "daysAtPeak": null
+        },
+        "PY": {
+          "rank": 96,
+          "daysAtPeak": null
+        },
+        "BG": {
+          "rank": 169,
+          "daysAtPeak": null
+        },
+        "RO": {
+          "rank": 82,
+          "daysAtPeak": null
+        },
+        "CO": {
+          "rank": 161,
+          "daysAtPeak": null
+        },
+        "KZ": {
+          "rank": 96,
+          "daysAtPeak": null
+        },
+        "BO": {
+          "rank": 126,
+          "daysAtPeak": null
+        },
+        "GT": {
+          "rank": 123,
+          "daysAtPeak": null
+        },
+        "SV": {
+          "rank": 162,
+          "daysAtPeak": null
+        },
+        "SA": {
+          "rank": 36,
+          "daysAtPeak": null
+        },
+        "HN": {
+          "rank": 194,
+          "daysAtPeak": null
+        },
+        "HK": {
+          "rank": 97,
+          "daysAtPeak": null
+        },
+        "EC": {
+          "rank": 84,
+          "daysAtPeak": null
+        },
+        "NI": {
+          "rank": 145,
+          "daysAtPeak": null
+        },
+        "MA": {
+          "rank": 186,
+          "daysAtPeak": null
+        },
+        "PK": {
+          "rank": 27,
+          "daysAtPeak": null
+        },
+        "AE": {
+          "rank": 129,
+          "daysAtPeak": null
+        },
+        "UA": {
+          "rank": 153,
+          "daysAtPeak": null
+        },
+        "PA": {
+          "rank": 122,
+          "daysAtPeak": null
+        },
+        "EG": {
+          "rank": 75,
+          "daysAtPeak": null
+        },
+        "LT": {
+          "rank": 158,
+          "daysAtPeak": null
+        },
+        "EE": {
+          "rank": 107,
+          "daysAtPeak": null
+        },
+        "LU": {
+          "rank": 14,
+          "daysAtPeak": null
+        },
+        "IS": {
+          "rank": 45,
+          "daysAtPeak": null
+        }
+      }
+    },
+    {
+      "title": "Promise",
+      "peakDate": "2023/03/17",
+      "streams": 9775053,
+      "globalPeak": 102,
+      "bestPeak": 8,
+      "chartedMarkets": 28,
+      "isTop1": false,
+      "top1Count": 0,
+      "top1Markets": [],
+      "peaks": {
+        "Global": {
+          "rank": 102,
+          "daysAtPeak": null
+        },
+        "KR": {
+          "rank": 8,
+          "daysAtPeak": null
+        },
+        "TH": {
+          "rank": 91,
+          "daysAtPeak": null
+        },
+        "VN": {
+          "rank": 11,
+          "daysAtPeak": null
+        },
+        "CL": {
+          "rank": 178,
+          "daysAtPeak": null
+        },
+        "PH": {
+          "rank": 184,
+          "daysAtPeak": null
+        },
+        "PE": {
+          "rank": 125,
+          "daysAtPeak": null
+        },
+        "SG": {
+          "rank": 71,
+          "daysAtPeak": null
+        },
+        "TW": {
+          "rank": 148,
+          "daysAtPeak": null
+        },
+        "VE": {
+          "rank": 145,
+          "daysAtPeak": null
+        },
+        "MY": {
+          "rank": 75,
+          "daysAtPeak": null
+        },
+        "ID": {
+          "rank": 149,
+          "daysAtPeak": null
+        },
+        "PY": {
+          "rank": 87,
+          "daysAtPeak": null
+        },
+        "CO": {
+          "rank": 153,
+          "daysAtPeak": null
+        },
+        "KZ": {
+          "rank": 153,
+          "daysAtPeak": null
+        },
+        "BO": {
+          "rank": 190,
+          "daysAtPeak": null
+        },
+        "GT": {
+          "rank": 102,
+          "daysAtPeak": null
+        },
+        "SV": {
+          "rank": 43,
+          "daysAtPeak": null
+        },
+        "SA": {
+          "rank": 32,
+          "daysAtPeak": null
+        },
+        "HN": {
+          "rank": 70,
+          "daysAtPeak": null
+        },
+        "HK": {
+          "rank": 144,
+          "daysAtPeak": null
+        },
+        "EC": {
+          "rank": 107,
+          "daysAtPeak": null
+        },
+        "NI": {
+          "rank": 64,
+          "daysAtPeak": null
+        },
+        "MA": {
+          "rank": 144,
+          "daysAtPeak": null
+        },
+        "PK": {
+          "rank": 102,
+          "daysAtPeak": null
+        },
+        "AE": {
+          "rank": 166,
+          "daysAtPeak": null
+        },
+        "PA": {
+          "rank": 165,
+          "daysAtPeak": null
+        },
+        "EG": {
+          "rank": 148,
+          "daysAtPeak": null
+        }
+      }
+    },
+    {
+      "title": "Who (Rock Remix)",
+      "peakDate": "2024/12/29",
+      "streams": 8497835,
+      "globalPeak": null,
+      "bestPeak": 4,
+      "chartedMarkets": 3,
+      "isTop1": false,
+      "top1Count": 0,
+      "top1Markets": [],
+      "peaks": {
+        "KR": {
+          "rank": 13,
+          "daysAtPeak": null
+        },
+        "BY": {
+          "rank": 4,
+          "daysAtPeak": null
+        },
+        "BG": {
+          "rank": 141,
+          "daysAtPeak": null
+        }
+      }
+    },
+    {
+      "title": "Who (Shibuyakei Remix)",
+      "peakDate": "2024/12/28",
+      "streams": 7380775,
+      "globalPeak": null,
+      "bestPeak": 7,
+      "chartedMarkets": 4,
+      "isTop1": false,
+      "top1Count": 0,
+      "top1Markets": [],
+      "peaks": {
+        "KR": {
+          "rank": 15,
+          "daysAtPeak": null
+        },
+        "BY": {
+          "rank": 7,
+          "daysAtPeak": null
+        },
+        "BG": {
+          "rank": 167,
+          "daysAtPeak": null
+        },
+        "KZ": {
+          "rank": 70,
+          "daysAtPeak": null
+        }
+      }
+    },
+    {
+      "title": "Who (Acoustic Remix)",
+      "peakDate": "2024/12/29",
+      "streams": 7133161,
+      "globalPeak": null,
+      "bestPeak": 11,
+      "chartedMarkets": 3,
+      "isTop1": false,
+      "top1Count": 0,
+      "top1Markets": [],
+      "peaks": {
+        "KR": {
+          "rank": 12,
+          "daysAtPeak": null
+        },
+        "BY": {
+          "rank": 11,
+          "daysAtPeak": null
+        },
+        "BG": {
+          "rank": 143,
+          "daysAtPeak": null
+        }
+      }
+    },
+    {
+      "title": "Who (Instrumental)",
+      "peakDate": "2024/12/29",
+      "streams": 5374166,
+      "globalPeak": null,
+      "bestPeak": 20,
+      "chartedMarkets": 3,
+      "isTop1": false,
+      "top1Count": 0,
+      "top1Markets": [],
+      "peaks": {
+        "KR": {
+          "rank": 20,
+          "daysAtPeak": null
+        },
+        "BY": {
+          "rank": 91,
+          "daysAtPeak": null
+        },
+        "BG": {
+          "rank": 166,
+          "daysAtPeak": null
+        }
+      }
+    },
+    {
+      "title": "Who (Funky Remix)",
+      "peakDate": "2024/12/29",
+      "streams": 5249554,
+      "globalPeak": null,
+      "bestPeak": 17,
+      "chartedMarkets": 3,
+      "isTop1": false,
+      "top1Count": 0,
+      "top1Markets": [],
+      "peaks": {
+        "KR": {
+          "rank": 17,
+          "daysAtPeak": null
+        },
+        "BY": {
+          "rank": 57,
+          "daysAtPeak": null
+        },
+        "BG": {
+          "rank": 190,
+          "daysAtPeak": null
+        }
+      }
+    },
+    {
+      "title": "Who (Beautiful Mind Remix)",
+      "peakDate": "2024/12/29",
+      "streams": 5213050,
+      "globalPeak": null,
+      "bestPeak": 18,
+      "chartedMarkets": 3,
+      "isTop1": false,
+      "top1Count": 0,
+      "top1Markets": [],
+      "peaks": {
+        "KR": {
+          "rank": 18,
+          "daysAtPeak": null
+        },
+        "BY": {
+          "rank": 118,
+          "daysAtPeak": null
+        },
+        "BG": {
+          "rank": 100,
+          "daysAtPeak": null
+        }
+      }
+    },
+    {
+      "title": "Christmas Love",
+      "peakDate": "2023/03/06",
+      "streams": 4610783,
+      "globalPeak": null,
+      "bestPeak": 19,
+      "chartedMarkets": 15,
+      "isTop1": false,
+      "top1Count": 0,
+      "top1Markets": [],
+      "peaks": {
+        "KR": {
+          "rank": 19,
+          "daysAtPeak": null
+        },
+        "TH": {
+          "rank": 79,
+          "daysAtPeak": null
+        },
+        "VN": {
+          "rank": 39,
+          "daysAtPeak": null
+        },
+        "CL": {
+          "rank": 155,
+          "daysAtPeak": null
+        },
+        "PE": {
+          "rank": 70,
+          "daysAtPeak": null
+        },
+        "VE": {
+          "rank": 73,
+          "daysAtPeak": null
+        },
+        "PY": {
+          "rank": 103,
+          "daysAtPeak": null
+        },
+        "BO": {
+          "rank": 114,
+          "daysAtPeak": null
+        },
+        "GT": {
+          "rank": 153,
+          "daysAtPeak": null
+        },
+        "SV": {
+          "rank": 95,
+          "daysAtPeak": null
+        },
+        "SA": {
+          "rank": 95,
+          "daysAtPeak": null
+        },
+        "HN": {
+          "rank": 106,
+          "daysAtPeak": null
+        },
+        "EC": {
+          "rank": 171,
+          "daysAtPeak": null
+        },
+        "NI": {
+          "rank": 108,
+          "daysAtPeak": null
+        },
+        "PK": {
+          "rank": 191,
+          "daysAtPeak": null
+        }
+      }
+    },
+    {
+      "title": "Like Crazy (Deep House Remix)",
+      "peakDate": "2023/03/26",
+      "streams": 2525238,
+      "globalPeak": null,
+      "bestPeak": 28,
+      "chartedMarkets": 7,
+      "isTop1": false,
+      "top1Count": 0,
+      "top1Markets": [],
+      "peaks": {
+        "KR": {
+          "rank": 28,
+          "daysAtPeak": null
+        },
+        "VN": {
+          "rank": 164,
+          "daysAtPeak": null
+        },
+        "PE": {
+          "rank": 178,
+          "daysAtPeak": null
+        },
+        "PY": {
+          "rank": 77,
+          "daysAtPeak": null
+        },
+        "BO": {
+          "rank": 178,
+          "daysAtPeak": null
+        },
+        "SA": {
+          "rank": 151,
+          "daysAtPeak": null
+        },
+        "PK": {
+          "rank": 134,
+          "daysAtPeak": null
+        }
+      }
+    },
+    {
+      "title": "Like Crazy (UK Garage Remix)",
+      "peakDate": "2023/03/26",
+      "streams": 2403426,
+      "globalPeak": null,
+      "bestPeak": 30,
+      "chartedMarkets": 5,
+      "isTop1": false,
+      "top1Count": 0,
+      "top1Markets": [],
+      "peaks": {
+        "KR": {
+          "rank": 30,
+          "daysAtPeak": null
+        },
+        "VN": {
+          "rank": 185,
+          "daysAtPeak": null
+        },
+        "PY": {
+          "rank": 84,
+          "daysAtPeak": null
+        },
+        "SA": {
+          "rank": 168,
+          "daysAtPeak": null
+        },
+        "PK": {
+          "rank": 159,
+          "daysAtPeak": null
+        }
+      }
+    },
+    {
+      "title": "Like Crazy (Instrumental)",
+      "peakDate": "2023/03/26",
+      "streams": 1626169,
+      "globalPeak": null,
+      "bestPeak": 50,
+      "chartedMarkets": 4,
+      "isTop1": false,
+      "top1Count": 0,
+      "top1Markets": [],
+      "peaks": {
+        "KR": {
+          "rank": 50,
+          "daysAtPeak": null
+        },
+        "VN": {
+          "rank": 173,
+          "daysAtPeak": null
+        },
+        "SA": {
+          "rank": 115,
+          "daysAtPeak": null
+        },
+        "PK": {
+          "rank": 86,
+          "daysAtPeak": null
+        }
+      }
+    },
+    {
+      "title": "With You - Instrumental",
+      "peakDate": "2022/04/24",
+      "streams": 1183619,
+      "globalPeak": null,
+      "bestPeak": 19,
+      "chartedMarkets": 16,
+      "isTop1": false,
+      "top1Count": 0,
+      "top1Markets": [],
+      "peaks": {
+        "KR": {
+          "rank": 19,
+          "daysAtPeak": null
+        },
+        "TH": {
+          "rank": 179,
+          "daysAtPeak": null
+        },
+        "VN": {
+          "rank": 29,
+          "daysAtPeak": null
+        },
+        "BR": {
+          "rank": 174,
+          "daysAtPeak": null
+        },
+        "PH": {
+          "rank": 110,
+          "daysAtPeak": null
+        },
+        "PE": {
+          "rank": 131,
+          "daysAtPeak": null
+        },
+        "SG": {
+          "rank": 183,
+          "daysAtPeak": null
+        },
+        "VE": {
+          "rank": 184,
+          "daysAtPeak": null
+        },
+        "MY": {
+          "rank": 144,
+          "daysAtPeak": null
+        },
+        "ID": {
+          "rank": 154,
+          "daysAtPeak": null
+        },
+        "PY": {
+          "rank": 189,
+          "daysAtPeak": null
+        },
+        "BO": {
+          "rank": 170,
+          "daysAtPeak": null
+        },
+        "SA": {
+          "rank": 63,
+          "daysAtPeak": null
+        },
+        "MA": {
+          "rank": 163,
+          "daysAtPeak": null
+        },
+        "AE": {
+          "rank": 70,
+          "daysAtPeak": null
+        },
+        "EG": {
+          "rank": 71,
+          "daysAtPeak": null
+        }
+      }
+    },
+    {
+      "title": "Angel",
+      "peakDate": "2024/05/13",
+      "streams": 34629,
+      "globalPeak": null,
+      "bestPeak": 102,
+      "chartedMarkets": 1,
+      "isTop1": false,
+      "top1Count": 0,
+      "top1Markets": [],
+      "peaks": {
+        "TH": {
+          "rank": 102,
+          "daysAtPeak": null
+        }
+      }
+    }
+  ]
+}
