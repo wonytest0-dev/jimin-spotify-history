@@ -1,18 +1,18 @@
 {
-  "chartDate": "2026-09-14",
+  "chartDate": "2026-09-15",
   "totalSongs": 30,
-  "totalStreams": 4643282184,
-  "totalGain": 0,
+  "totalStreams": 4643941825,
+  "totalGain": 659641,
   "songs": [
     {
       "title": "Who",
-      "streams": 2522450190,
-      "gain": 0
+      "streams": 2523063794,
+      "gain": 613604
     },
     {
       "title": "Like Crazy",
-      "streams": 1000016235,
-      "gain": 0
+      "streams": 1000058883,
+      "gain": 42648
     },
     {
       "title": "Be Mine",
@@ -31,8 +31,8 @@
     },
     {
       "title": "Smeraldo Garden Marching Band",
-      "streams": 115854499,
-      "gain": 0
+      "streams": 115856681,
+      "gain": 2182
     },
     {
       "title": "* Angel Pt. 1",
@@ -96,8 +96,8 @@
     },
     {
       "title": "Who (Rock Remix)",
-      "streams": 8497835,
-      "gain": 0
+      "streams": 8499042,
+      "gain": 1207
     },
     {
       "title": "Who (Shibuyakei Remix)",
