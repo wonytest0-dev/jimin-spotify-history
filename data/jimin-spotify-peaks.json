@@ -1,18 +1,18 @@
 {
-  "chartDate": "2026-09-16",
+  "chartDate": "2026-09-17",
   "totalSongs": 30,
-  "totalStreams": 4644192966,
-  "totalGain": 251141,
+  "totalStreams": 4644436178,
+  "totalGain": 243212,
   "songs": [
     {
       "title": "Who",
-      "streams": 2523313701,
-      "gain": 249907
+      "streams": 2523555253,
+      "gain": 241552
     },
     {
       "title": "Like Crazy",
-      "streams": 1000060117,
-      "gain": 1234
+      "streams": 1000061777,
+      "gain": 1660
     },
     {
       "title": "Be Mine",
