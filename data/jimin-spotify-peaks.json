@@ -1,23 +1,23 @@
 {
-  "chartDate": "2026-09-18",
+  "chartDate": "2026-09-19",
   "totalSongs": 30,
-  "totalStreams": 4644858730,
-  "totalGain": 422552,
+  "totalStreams": 4645077362,
+  "totalGain": 218632,
   "songs": [
     {
       "title": "Who",
-      "streams": 2523844738,
-      "gain": 289485
+      "streams": 2524061589,
+      "gain": 216851
     },
     {
       "title": "Like Crazy",
-      "streams": 1000061777,
-      "gain": 0
+      "streams": 1000063558,
+      "gain": 1781
     },
     {
       "title": "Be Mine",
       "streams": 194518045,
-      "gain": 133067
+      "gain": 0
     },
     {
       "title": "Set Me Free Pt.2",
