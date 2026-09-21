@@ -1,18 +1,18 @@
 {
-  "chartDate": "2026-09-20",
+  "chartDate": "2026-09-21",
   "totalSongs": 30,
-  "totalStreams": 4645410475,
-  "totalGain": 333113,
+  "totalStreams": 4645733660,
+  "totalGain": 323185,
   "songs": [
     {
       "title": "Who",
-      "streams": 2524385086,
-      "gain": 323497
+      "streams": 2524701018,
+      "gain": 315932
     },
     {
       "title": "Like Crazy",
-      "streams": 1000067099,
-      "gain": 3541
+      "streams": 1000070140,
+      "gain": 3041
     },
     {
       "title": "Be Mine",
@@ -96,18 +96,18 @@
     },
     {
       "title": "Who (Rock Remix)",
-      "streams": 8501241,
-      "gain": 2199
+      "streams": 8502795,
+      "gain": 1554
     },
     {
       "title": "Who (Shibuyakei Remix)",
-      "streams": 7382814,
-      "gain": 2039
+      "streams": 7384140,
+      "gain": 1326
     },
     {
       "title": "Who (Acoustic Remix)",
-      "streams": 7134998,
-      "gain": 1837
+      "streams": 7136330,
+      "gain": 1332
     },
     {
       "title": "Who (Instrumental)",
