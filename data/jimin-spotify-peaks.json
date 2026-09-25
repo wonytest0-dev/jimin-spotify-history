@@ -1,23 +1,23 @@
 {
-  "chartDate": "2026-09-24",
+  "chartDate": "2026-09-25",
   "totalSongs": 30,
-  "totalStreams": 4646606447,
-  "totalGain": 316979,
+  "totalStreams": 4647123516,
+  "totalGain": 517069,
   "songs": [
     {
       "title": "Who",
-      "streams": 2525567856,
-      "gain": 313887
+      "streams": 2525892285,
+      "gain": 324429
     },
     {
       "title": "Like Crazy",
       "streams": 1000074910,
-      "gain": 1913
+      "gain": 0
     },
     {
       "title": "Be Mine",
-      "streams": 194518045,
-      "gain": 0
+      "streams": 194700955,
+      "gain": 182910
     },
     {
       "title": "Set Me Free Pt.2",
@@ -56,8 +56,8 @@
     },
     {
       "title": "Rebirth (Intro)",
-      "streams": 32411558,
-      "gain": 0
+      "streams": 32421288,
+      "gain": 9730
     },
     {
       "title": "Slow Dance",
@@ -97,7 +97,7 @@
     {
       "title": "Who (Rock Remix)",
       "streams": 8503974,
-      "gain": 1179
+      "gain": 0
     },
     {
       "title": "Who (Shibuyakei Remix)",
