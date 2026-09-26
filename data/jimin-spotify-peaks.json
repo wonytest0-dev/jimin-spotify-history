@@ -1,13 +1,13 @@
 {
-  "chartDate": "2026-09-25",
+  "chartDate": "2026-09-26",
   "totalSongs": 30,
-  "totalStreams": 4647123516,
-  "totalGain": 517069,
+  "totalStreams": 4647407506,
+  "totalGain": 283990,
   "songs": [
     {
       "title": "Who",
-      "streams": 2525892285,
-      "gain": 324429
+      "streams": 2526176275,
+      "gain": 283990
     },
     {
       "title": "Like Crazy",
@@ -17,7 +17,7 @@
     {
       "title": "Be Mine",
       "streams": 194700955,
-      "gain": 182910
+      "gain": 0
     },
     {
       "title": "Set Me Free Pt.2",
@@ -57,7 +57,7 @@
     {
       "title": "Rebirth (Intro)",
       "streams": 32421288,
-      "gain": 9730
+      "gain": 0
     },
     {
       "title": "Slow Dance",
